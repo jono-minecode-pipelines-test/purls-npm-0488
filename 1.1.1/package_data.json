@@ -1,0 +1,64 @@
+{
+    "name": "0-dd-trace-init-first-production",
+    "version": "1.1.1",
+    "description": "A package that initializes dd trace when the environment is production, (and is lexographically superior, so that it is sorted to be \"first\")",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dave-inc/-dd-trace-init-first-production.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "dd-trace",
+        "init"
+    ],
+    "author": {
+        "name": "McKay Salisbury"
+    },
+    "license": "MIT",
+    "peerDependencies": {
+        "dd-trace": ">= 0.9.1"
+    },
+    "dependencies": {},
+    "gitHead": "77c04a45ae2d12d33d30b9cd2fbb6e166d44f2fb",
+    "bugs": {
+        "url": "https://github.com/dave-inc/-dd-trace-init-first-production/issues"
+    },
+    "homepage": "https://github.com/dave-inc/-dd-trace-init-first-production#readme",
+    "_id": "0-dd-trace-init-first-production@1.1.1",
+    "_nodeVersion": "10.17.0",
+    "_npmVersion": "6.13.7",
+    "dist": {
+        "integrity": "sha512-j2EpYNO27YfAU33003KgkUVpzx7NCpVI3naQONWhtB6Klb/Ms2IyVHa2C4EllTBEPFVvJ1BLaW5YbUsvMJnGsw==",
+        "shasum": "cc0dc785ce9f3de6cf2138153efb3ba138b68863",
+        "tarball": "https://registry.npmjs.org/0-dd-trace-init-first-production/-/0-dd-trace-init-first-production-1.1.1.tgz",
+        "fileCount": 5,
+        "unpackedSize": 2196,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeXp4RCRA9TVsSAnZWagAAU9QP/3Ggg4QHxJQn4b7ODYEF\nYOuJ3iG8xfQ/lbQTAr+vvWBCOK4T/x1JGZU9s+oiKL2aBaeCsx8ulsywxbdF\nhvUvT7PIgMpDNwo8joWkL9nE37cEjc6VyFoCUj2HDdzUwxcLLS+zTU3xzwKS\nHtUoILZ29cP2/gZ6anaPUSG0RT3Zi2bpfCX2WTKn1lwqr+z9G+HLRv7E9zb2\nsMbs+30RYWAdQYMKFHyTBUMNEotk9CYytpS2xZmxOjDSS4rvVjegZnJ6FMmj\npICis88EtkO9rp8qmIymRlQdyoZSjL9dUvZS7CZspfKeqx0UI2EQvMhumD0G\nkgfnHbgKvA8c62sEdjzfRCUGDQKoFQTB0/KuWeXrtAoj/yfv5dF+5C7jDNKp\nE+IbjvvRKQxq4UA977IHKzL2HyzbNQAXKdM1dezFeemPb8ZsrsKp49ctsO5U\nIRMTUF8NmXGhBeXN45WNgM9nS3nJe+YipwJXhdUixH23Lw1oLT1ZsYNplfEK\nWOzo+fbd3TwZ1QzRStFtvYUS+aFxAnhXHJebapC+ReR4SF62pylbSdgRs4S6\ndlwJxgflPZM/c6XG4zJcwpfyWYrAx4RCBUlc9pPwLcIrYOWKXsu4UXKzC4gY\nzGZ4dqfJP6vfTeCw7oAXh91FGxH3GZLLtzH+jAdmGNI3b0dUKl4MdvwDM+Qn\nlEVE\r\n=eRny\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIEACYTfPFM3Hw2dtYcZHBfTaQcuHmysr88KgH6YvqRClAiAK7PDdLs33WRmvMzK/3HL84GRjBd/uVwRC4taC2L2bWQ=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "mckaysalisbury",
+            "email": "mckaysalisbury@hotmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "mckaysalisbury",
+        "email": "mckaysalisbury@hotmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0-dd-trace-init-first-production_1.1.1_1583259153242_0.6589345396578068"
+    },
+    "_hasShrinkwrap": false
+}
