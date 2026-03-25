@@ -1,0 +1,55 @@
+{
+    "name": "-my_bank-project-11",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-my_bank-project-11": "module"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.12.12"
+    },
+    "dependencies": {
+        "inquirer": "^9.2.22"
+    },
+    "_id": "-my_bank-project-11@1.0.0",
+    "gitHead": "e33de0d429db72166f142b340dbca433a84b2790",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-hcxisxD+UuvNe87vT7CdHkCXGRjd5eXEasSp7Ppg7hn1NWLMRmfvWJQgkrkhw7Js8GUA7YsWcquJ4LKK1gMrDw==",
+        "shasum": "5b0db471e6b0b514d84b8914ab52430512a6ff67",
+        "tarball": "https://registry.npmjs.org/-my_bank-project-11/-/-my_bank-project-11-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 23893,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIGrAr/E/s6CQtzSwGEMV36l7tlQw04RSEKFUl4tqvha/AiBuutFX70MSZgUWw3nkcVPstseZFNJVRa0tj2v5hYfQGw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "khokhar.bachal",
+        "email": "bachal.khokhar@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "khokhar.bachal",
+            "email": "bachal.khokhar@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-my_bank-project-11_1.0.0_1716582699040_0.6857448959851318"
+    },
+    "_hasShrinkwrap": false
+}

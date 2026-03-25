@@ -1,0 +1,45 @@
+{
+    "name": "0-3day1",
+    "version": "1.0.0",
+    "description": "---",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "_id": "0-3day1@1.0.0",
+    "_nodeVersion": "14.17.6",
+    "_npmVersion": "6.14.15",
+    "dist": {
+        "integrity": "sha512-A1GCGxvo2EbWgDpJsiA6HRocXo4IrrcVPYGzseurQSrSQBZgt7VGHQ+KSOU6E8RWncUSg++6uB6msf8xaGC1uw==",
+        "shasum": "941506a44a5b9981f3b5ee9761b1719302356fdb",
+        "tarball": "https://registry.npmjs.org/0-3day1/-/0-3day1-1.0.0.tgz",
+        "fileCount": 6,
+        "unpackedSize": 1531,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIG9v1KYAGPx5430DPNSRHRFFe0KlrDt9GJl4KLjqli3uAiEAkuceF6OqPyNil7pOvIs8r7DTMFyGiLto6dyPABGD0iM="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiStjpACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq8dhAAjIl2LXu7+kPRhH/OUn4YkdflHjKAjDkP69g7PbbYNW9DaEJZ\r\n5m3vnd4iIOHuuHd7fN1A5qPPU0Zi9VEFMyhzMtC7alefyWrYdDptmqRvm/k5\r\nQxfpP6sZqGDQNFkXpJUqkR/4nvH/EeGI7+uHVVl3PpgLqfuCWVPpKkniDSxs\r\nrserX0xmlDHjZuiS5i7NhxcrFFS13qZFpliNjXsEWAzBTdOAWLbtveHHu0GZ\r\nMR2xu9Ad6+tN+0xKimj9EN+crgVL8fM2YY+seBmjHPhmdi09eCL+BR9FwfwC\r\nS1d149tSnj2hgbb4o0V14NV1JFmkw1FnD2VAt06l8KpLymp6f9kcstXzBXTa\r\nWsckryk9dEtAUY2qy2FDwX5Uy4YSCOKoqI8x+q/pFeDMa4iZ+RJVjnenUquA\r\n/zWmxlM9ddPRkHq5wG/y0yr5w6h+NN0BQ/ZPgJuQJ4PwdzQJ9WywyRJBaRos\r\nGKiKXZyux7ii5x1BR23vWMoZyo7lbRox+TPF7LewVwE7v7qy4MWsBAIfzvp3\r\nuT+bSvXk0FUHxUYVG1R3Lthznav5wcSIjVZZLgaT2RAdnLC13Ce0kai0wGGL\r\nqWkWuMep+pRHfeB5LaGH391IlcMFp4VMpjJUQjUaDwrKTJYPzaMRLYCGqQp0\r\nA7KJgmolq9urvOulfYVT9omV7O+0SAapQMo=\r\n=7/EN\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "lwenjie",
+        "email": "2773015163@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "lwenjie",
+            "email": "2773015163@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/0-3day1_1.0.0_1649072361057_0.9422963225307668"
+    },
+    "_hasShrinkwrap": false
+}

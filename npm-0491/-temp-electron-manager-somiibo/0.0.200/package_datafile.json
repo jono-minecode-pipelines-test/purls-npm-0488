@@ -1,0 +1,108 @@
+{
+    "name": "-temp-electron-manager-somiibo",
+    "version": "0.0.200",
+    "description": "An NPM module with tools, helper functions, and utilities for building a flawless Electron app \ud83d\ude80",
+    "main": "dist/index.js",
+    "bin": {
+        "electron-manager": "bin/electron-manager",
+        "electronmanager": "bin/electron-manager",
+        "eman": "bin/electron-manager"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ./src/cli.js"
+    },
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "author": {
+        "name": "ITW Creative Works"
+    },
+    "license": "MIT",
+    "keywords": [
+        "root",
+        "electron",
+        "path",
+        "front-end"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/itw-creative-works/electron-manager.git"
+    },
+    "bugs": {
+        "url": "https://github.com/itw-creative-works/electron-manager/issues"
+    },
+    "homepage": "https://itwcreativeworks.com",
+    "dependencies": {
+        "@octokit/rest": "^18.12.0",
+        "@sentry/electron": "^2.5.4",
+        "auto-launch": "^5.0.5",
+        "chalk": "^4.1.2",
+        "electron-is-dev": "^2.0.0",
+        "electron-is-packaged": "^1.0.2",
+        "electron-is-snap": "^1.0.3",
+        "electron-log": "^4.4.8",
+        "electron-rebuilder": "^0.0.20",
+        "electron-store": "^8.1.0",
+        "fs-jetpack": "^4.3.1",
+        "glob": "^7.2.3",
+        "json5": "^2.2.1",
+        "jszip": "^3.10.1",
+        "keychain": "^1.3.0",
+        "lodash": "^4.17.21",
+        "macaddress": "^0.5.3",
+        "mime-types": "^2.1.35",
+        "moment": "^2.29.4",
+        "node-powertools": "^0.0.21",
+        "original-fs": "^1.2.0",
+        "promo-server": "^0.0.24",
+        "semver": "^7.3.8",
+        "simple-plist": "^1.3.1",
+        "universal-analytics": "^0.5.3",
+        "uuid": "^8.3.2",
+        "web-manager": "^3.1.7",
+        "wonderful-fetch": "^0.0.14",
+        "yaml": "^1.10.2",
+        "yargs": "^17.6.0"
+    },
+    "peerDependencies": {
+        "electron-builder": "23.3.3",
+        "electron-notarize": "^1.2.1",
+        "electron-notarize-dmg": "^1.0.0",
+        "electron-updater": "5.2.1"
+    },
+    "gitHead": "334719a8a8bc0d58821a39f7a8c0137f4212ed4c",
+    "_id": "-temp-electron-manager-somiibo@0.0.200",
+    "_nodeVersion": "16.17.0",
+    "_npmVersion": "8.15.0",
+    "dist": {
+        "integrity": "sha512-I2iUt4mcwce9SLlvv8QGcAt8fTMwOud0znayC5N5YRE68aRjZ+IOuwN+BsWw17mbYwDjXALgrG8ufIWdqW1qgQ==",
+        "shasum": "544f4239a50442a3134494f0c44f37f5cbeb7fa1",
+        "tarball": "https://registry.npmjs.org/-temp-electron-manager-somiibo/-/-temp-electron-manager-somiibo-0.0.200.tgz",
+        "fileCount": 61,
+        "unpackedSize": 329459,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFxytifUjD2dlPcbhzIxRKLfTFj690RoVd14qT1oLmkRAiAzBj2kJMtqub2WcHu7uSIGh+5J4uUi+mjpKWMyYfBqKw=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjR2I6ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqc/BAAmtFwTHswx9mSKQ6/DtPeNZCfeX92J/FGCUhXibfkJ0y3USrV\r\nOcKWDa/hU90UnOFyPGZaAvMSLZHl336FbegeQUf0+1xeA1jeyMQjYVDLV3pD\r\nViaUTa1ezuMBWIQ2/cRlAnpB7EXM69H5oKXMlqiCkWyD7Etl3IHRwdVOg6F5\r\nBal0VgNBcIyLFbCzBAcnGQlVUKbpEFpVVmbQg2YYb3otmCX3KyqIg9EjcC9Z\r\ngy7w85055c/nayJAF/39hHJMT4r5JckNIUJiMiL64abUxxTTiXGrFCDa8GQU\r\ntsUg6YICx3RF9kG+5CUhf9opKisCmzMUeH3+Kelnqaf0lX770yKsunGEHIz8\r\nWKdukjvhpjOfkLH6Ct89Els46/OoAeILwf5DRAT+0DHhL5P2soiA5jdHD3SO\r\nlJit6n6APP4QLggISI7x8p8kSBi3ii/NJCJGDumRCDgkO1r1MCnYG+bbLoDm\r\nwLbZoEAQKAkpGUJ96AuyDfkC79CKgWyUNT8C7Ro7ckadf+GM5CK5DsoqfPTE\r\np4mCWK/GwBtt63lqCMdV1+Ji2qAk/k5KUNnVuPQDcwpqqI6AhZHTYbmEsTvX\r\n80I6Elck/qv4g1coVlYgQ7/8JNB/MuM+uIsRdkqFOZzoymT3MNQpiJz3j6Dm\r\nGkaSeSJiKQHncV3J8VTNB/mnUUhPItOsYaA=\r\n=DQr5\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "itwcw2000",
+        "email": "itw.creative.works@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "itwcw2000",
+            "email": "itw.creative.works@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-temp-electron-manager-somiibo_0.0.200_1665622586276_0.8269836588673847"
+    },
+    "_hasShrinkwrap": false
+}
